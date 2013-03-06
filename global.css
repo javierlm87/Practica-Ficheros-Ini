@@ -35,6 +35,8 @@ span.comments { background-color: orange }
 span.blanks { background-color: yellow }
 span.nameEqualValue { background-color: blue }
 span.error { background-color: red }
+span.iniheader { background-color: violet}
+span.any { background-color: brown}
 
 body
 {
